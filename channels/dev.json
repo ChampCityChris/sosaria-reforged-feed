@@ -1,15 +1,15 @@
 {
   "SchemaVersion": 1,
-  "PackageVersion": "0.1.0-alpha.1",
-  "ManifestId": "Pinco-SRLauncher-Bridge-v1",
-  "ManifestSha256": "722d6b756b74e3dfe3d3a1e9d60e521d4e852d86918ceaae16f33cce019d8b1a",
-  "ArtifactSha256": "bb61513a664b2c833ac75befb497df0dec519c591ec863ebb80eb35ee8442964",
-  "ArtifactBytes": 555590702,
+  "PackageVersion": "0.1.0-alpha.2",
+  "ManifestId": "Pinco-SRLauncher-Bridge-v1-INF03-alpha.2",
+  "ManifestSha256": "7edcc9cadd19515c4aedce712fb8c07c2cd8e5f9074b94c5c20f27514846e8cb",
+  "ArtifactSha256": "5bfd953ac4789a5bf7a985e7b46c23dd73eeb197c4601e92b1b606f88efebf28",
+  "ArtifactBytes": 555592213,
   "MinimumLauncherVersion": "0.1.0-alpha.1",
   "Prerelease": true,
-  "ArtifactUri": "https://api.github.com/repos/ChampCityChris/sosaria-reforged-feed/releases/assets/632352536",
-  "PublishedUtc": "2026-10-12T01:55:50.124780+00:00",
+  "ArtifactUri": "https://api.github.com/repos/ChampCityChris/sosaria-reforged-feed/releases/assets/632394406",
+  "PublishedUtc": "2026-10-12T02:20:14.876453+00:00",
   "ReleaseNotes": "Private qualification prerelease; Phase 4 remains incomplete.",
   "Channel": "dev",
-  "ManifestUri": "https://api.github.com/repos/ChampCityChris/sosaria-reforged-feed/contents/manifests/0.1.0-alpha.1.json?ref=93278faf0bda84603557f61f2bf6fe257f1bb947"
+  "ManifestUri": "https://api.github.com/repos/ChampCityChris/sosaria-reforged-feed/contents/manifests/0.1.0-alpha.2.json?ref=63b2931259d1c962dc5410aeb1acc1ebf5c3ca1d"
 }
