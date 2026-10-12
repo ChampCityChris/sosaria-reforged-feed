@@ -1,0 +1,15 @@
+{
+  "SchemaVersion": 1,
+  "PackageVersion": "0.0.1-inf03.1",
+  "ManifestId": "remote-0.1.0-alpha.1",
+  "ManifestSha256": "47820b835c52ad365bce8bcc3dba9e9e9da6aced87b72c807ef95d71021ffa1c",
+  "ArtifactSha256": "f92846be7575b46557de9ad5aa8e62454c5ee7616b1d62569dd905a381422bd3",
+  "ArtifactBytes": 567,
+  "MinimumLauncherVersion": "0.1.0-alpha.1",
+  "Prerelease": true,
+  "ArtifactUri": "https://api.github.com/repos/ChampCityChris/sosaria-reforged-feed/releases/assets/632345192",
+  "PublishedUtc": "2026-10-12T01:50:04.850011+00:00",
+  "ReleaseNotes": "Private qualification prerelease; Phase 4 remains incomplete.",
+  "Channel": "dev",
+  "ManifestUri": "https://api.github.com/repos/ChampCityChris/sosaria-reforged-feed/contents/manifests/0.0.1-inf03.1.json?ref=446148b2788098dd13254ad2e83a4b5709cef84a"
+}
