@@ -1,15 +1,15 @@
 {
   "SchemaVersion": 1,
-  "PackageVersion": "0.0.1-inf03.1",
-  "ManifestId": "remote-0.1.0-alpha.1",
-  "ManifestSha256": "47820b835c52ad365bce8bcc3dba9e9e9da6aced87b72c807ef95d71021ffa1c",
-  "ArtifactSha256": "f92846be7575b46557de9ad5aa8e62454c5ee7616b1d62569dd905a381422bd3",
-  "ArtifactBytes": 567,
+  "PackageVersion": "0.0.1-inf03.2",
+  "ManifestId": "remote-0.1.0-alpha.2",
+  "ManifestSha256": "77e4a9d2d3f77a474ec189d31901991cf53e9b3e743cc8b827bf93bbc45f4be9",
+  "ArtifactSha256": "a1aeeb49e250d0628235f247baeb3c96dffa337f48fe04f8456275e2dd4d8269",
+  "ArtifactBytes": 569,
   "MinimumLauncherVersion": "0.1.0-alpha.1",
   "Prerelease": true,
-  "ArtifactUri": "https://api.github.com/repos/ChampCityChris/sosaria-reforged-feed/releases/assets/632345192",
-  "PublishedUtc": "2026-10-12T01:50:04.850011+00:00",
+  "ArtifactUri": "https://api.github.com/repos/ChampCityChris/sosaria-reforged-feed/releases/assets/632349704",
+  "PublishedUtc": "2026-10-12T01:52:08.272067+00:00",
   "ReleaseNotes": "Private qualification prerelease; Phase 4 remains incomplete.",
   "Channel": "dev",
-  "ManifestUri": "https://api.github.com/repos/ChampCityChris/sosaria-reforged-feed/contents/manifests/0.0.1-inf03.1.json?ref=446148b2788098dd13254ad2e83a4b5709cef84a"
+  "ManifestUri": "https://api.github.com/repos/ChampCityChris/sosaria-reforged-feed/contents/manifests/0.0.1-inf03.2.json?ref=1dc108830dabf492cee4bff920f9635aef6d8a6a"
 }
