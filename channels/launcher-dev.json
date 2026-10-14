@@ -1,0 +1,18 @@
+{
+  "ArtifactBytes": 18441515,
+  "ArtifactSha256": "c7a095abb30cdcf713bdc5decc22799217b17d539278ee3aa7c699c7c808c9e9",
+  "ArtifactUri": "https://api.github.com/repos/ChampCityChris/sosaria-reforged-feed/contents/launcher/0.1.0-alpha.7.17%2B13f6c1ddb48093d12ccbfd71c5033fa75cdddd19/SRLauncher-0.1.0-alpha.7.17-win-x86.zip?ref=5db380dd33e5ebec416db19a7ef129b5f05e1f75",
+  "BuildId": "0.1.0-alpha.7.17+13f6c1ddb48093d12ccbfd71c5033fa75cdddd19",
+  "CanonicalCommit": "13f6c1ddb48093d12ccbfd71c5033fa75cdddd19",
+  "CanonicalRemote": "https://forgejo.atomic-forge.net/champcitychris/sosaria-reforged.git",
+  "Channel": "dev",
+  "DiagnosticScope": "DeveloperDiagnosticsOnly",
+  "FieldAcceptanceStatus": "PENDING",
+  "LauncherVersion": "0.1.0-alpha.7.17",
+  "MaximumFeedSchema": 1,
+  "MinimumFeedSchema": 1,
+  "Prerelease": true,
+  "PublishedUtc": "2026-10-14T17:00:06.287475+00:00",
+  "ReleaseNotes": "Dev-feed build for testing in-place launcher updates. Includes the EC settings lifecycle repair. Unsigned development build.",
+  "SchemaVersion": 1
+}
