@@ -1,18 +1,22 @@
 {
-  "ArtifactBytes": 18441515,
-  "ArtifactSha256": "c7a095abb30cdcf713bdc5decc22799217b17d539278ee3aa7c699c7c808c9e9",
-  "ArtifactUri": "https://api.github.com/repos/ChampCityChris/sosaria-reforged-feed/contents/launcher/0.1.0-alpha.7.17%2B13f6c1ddb48093d12ccbfd71c5033fa75cdddd19/SRLauncher-0.1.0-alpha.7.17-win-x86.zip?ref=5db380dd33e5ebec416db19a7ef129b5f05e1f75",
-  "BuildId": "0.1.0-alpha.7.17+13f6c1ddb48093d12ccbfd71c5033fa75cdddd19",
-  "CanonicalCommit": "13f6c1ddb48093d12ccbfd71c5033fa75cdddd19",
-  "CanonicalRemote": "https://forgejo.atomic-forge.net/champcitychris/sosaria-reforged.git",
+  "ArtifactBytes": 18441505,
+  "ArtifactSha256": "8909ad718bd4b8bee2c66f828ebe4edaffae8093098324fd28019db8ed40c8bf",
+  "ArtifactUri": "https://api.github.com/repos/ChampCityChris/sosaria-reforged-feed/contents/launcher/0.1.0-alpha.7.20%2Ba55825805d9a40546c5e115b0997b52eeb742796/SRLauncher-0.1.0-alpha.7.20-win-x86.zip?ref=8f41da3f909710f5412bc1f56721aa527d49e551",
+  "BuildId": "0.1.0-alpha.7.20+a55825805d9a40546c5e115b0997b52eeb742796",
+  "CanonicalCommit": "a55825805d9a40546c5e115b0997b52eeb742796",
+  "CanonicalRemote": "https://forgejo.atomic-forge.net/champcity-repos/sosaria-reforged.git",
   "Channel": "dev",
   "DiagnosticScope": "DeveloperDiagnosticsOnly",
   "FieldAcceptanceStatus": "PENDING",
-  "LauncherVersion": "0.1.0-alpha.7.17",
+  "LauncherVersion": "0.1.0-alpha.7.20",
   "MaximumFeedSchema": 1,
   "MinimumFeedSchema": 1,
   "Prerelease": true,
-  "PublishedUtc": "2026-10-14T17:00:06.287475+00:00",
-  "ReleaseNotes": "Dev-feed build for testing in-place launcher updates. Includes the EC settings lifecycle repair. Unsigned development build.",
-  "SchemaVersion": 1
+  "PublishedUtc": "2026-10-18T01:09:10.768597+00:00",
+  "ReleaseNotes": "Exact pushed dev channel candidate. Developer diagnostics are not field acceptance; FIELD ACCEPTANCE PENDING. Unsigned development build; FIELD ACCEPTANCE PENDING.",
+  "SchemaVersion": 1,
+  "Signing": {
+    "FinalZipSha256": "8909ad718bd4b8bee2c66f828ebe4edaffae8093098324fd28019db8ed40c8bf",
+    "Status": "UNSIGNED_DEVELOPMENT_ONLY"
+  }
 }
