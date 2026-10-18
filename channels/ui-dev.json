@@ -1,15 +1,19 @@
 {
   "SchemaVersion": 1,
-  "PackageVersion": "0.1.0-alpha.2",
-  "ManifestId": "Pinco-SRLauncher-Bridge-v1-INF03-alpha.2",
-  "ManifestSha256": "7edcc9cadd19515c4aedce712fb8c07c2cd8e5f9074b94c5c20f27514846e8cb",
-  "ArtifactSha256": "5bfd953ac4789a5bf7a985e7b46c23dd73eeb197c4601e92b1b606f88efebf28",
-  "ArtifactBytes": 555592213,
+  "PackageVersion": "0.1.0-alpha.3",
+  "ManifestId": "Pinco-SRLauncher-Bridge-v1",
+  "ManifestSha256": "722d6b756b74e3dfe3d3a1e9d60e521d4e852d86918ceaae16f33cce019d8b1a",
+  "ArtifactSha256": "bb61513a664b2c833ac75befb497df0dec519c591ec863ebb80eb35ee8442964",
+  "ArtifactBytes": 555590702,
   "MinimumLauncherVersion": "0.1.0-alpha.1",
   "Prerelease": true,
-  "ArtifactUri": "https://api.github.com/repos/ChampCityChris/sosaria-reforged-feed/releases/assets/632394406",
-  "PublishedUtc": "2026-10-12T02:20:14.876453+00:00",
-  "ReleaseNotes": "Private qualification prerelease; Phase 4 remains incomplete.",
+  "CanonicalCommit": "a55825805d9a40546c5e115b0997b52eeb742796",
+  "CanonicalRemote": "https://forgejo.atomic-forge.net/champcity-repos/sosaria-reforged.git",
+  "SourceRef": "refs/heads/dev",
+  "BuildId": "0.1.0-alpha.3+a55825805d9a40546c5e115b0997b52eeb742796",
+  "ReleaseNotes": "Dev UI channel package from a55825805d9a40546c5e115b0997b52eeb742796 at champcity-repos/sosaria-reforged. Includes the maintained Interface.lua update; launcher and UI channels remain independent.",
+  "ArtifactUri": "https://api.github.com/repos/ChampCityChris/sosaria-reforged-feed/releases/assets/652074897",
+  "PublishedUtc": "2026-10-18T01:08:07.890632+00:00",
   "Channel": "dev",
-  "ManifestUri": "https://api.github.com/repos/ChampCityChris/sosaria-reforged-feed/contents/manifests/0.1.0-alpha.2.json?ref=63b2931259d1c962dc5410aeb1acc1ebf5c3ca1d"
+  "ManifestUri": "https://api.github.com/repos/ChampCityChris/sosaria-reforged-feed/contents/manifests/0.1.0-alpha.3.json?ref=c9ef6cc7cbf4052e78e05ca64b25775632f15aae"
 }
