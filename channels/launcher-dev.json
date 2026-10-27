@@ -1,22 +1,22 @@
 {
-  "ArtifactBytes": 18460790,
-  "ArtifactSha256": "d90bcbb835d4df4806b607af937465c775a8db6bb1a75a1b35bb20db391d1b7b",
-  "ArtifactUri": "https://api.github.com/repos/ChampCityChris/sosaria-reforged-feed/contents/launcher/0.1.0-alpha.7.32%2Bc65f9a2b95a735c5865e17d338849f64baacfba8/SRLauncher-0.1.0-alpha.7.32-win-x86.zip?ref=b45a71b0e8714edc9db81fb855c0bfbeedcd24c9",
-  "BuildId": "0.1.0-alpha.7.32+c65f9a2b95a735c5865e17d338849f64baacfba8",
-  "CanonicalCommit": "c65f9a2b95a735c5865e17d338849f64baacfba8",
+  "ArtifactBytes": 18471184,
+  "ArtifactSha256": "cea4abe0fe0346162626a57522edabfeb159e7893bbcdaf5745fa2f55d4c40ad",
+  "ArtifactUri": "https://api.github.com/repos/ChampCityChris/sosaria-reforged-feed/contents/launcher/0.1.0-alpha.7.51%2B628a0b3c744ab7de233594b84991026de04cd1b8/SRLauncher-0.1.0-alpha.7.51-win-x86.zip?ref=7dc92a3f53d400d63965fbcb042913b2c841a4a7",
+  "BuildId": "0.1.0-alpha.7.51+628a0b3c744ab7de233594b84991026de04cd1b8",
+  "CanonicalCommit": "628a0b3c744ab7de233594b84991026de04cd1b8",
   "CanonicalRemote": "https://forgejo.atomic-forge.net/champcity-repos/sosaria-reforged.git",
   "Channel": "dev",
   "DiagnosticScope": "DeveloperDiagnosticsOnly",
   "FieldAcceptanceStatus": "PENDING",
-  "LauncherVersion": "0.1.0-alpha.7.32",
+  "LauncherVersion": "0.1.0-alpha.7.51",
   "MaximumFeedSchema": 1,
   "MinimumFeedSchema": 1,
   "Prerelease": true,
-  "PublishedUtc": "2026-10-27T12:31:34.447763+00:00",
+  "PublishedUtc": "2026-10-27T22:59:14.263365+00:00",
   "ReleaseNotes": "Exact pushed dev channel candidate. Developer diagnostics are not field acceptance; FIELD ACCEPTANCE PENDING. Unsigned development build; FIELD ACCEPTANCE PENDING.",
   "SchemaVersion": 1,
   "Signing": {
-    "FinalZipSha256": "d90bcbb835d4df4806b607af937465c775a8db6bb1a75a1b35bb20db391d1b7b",
+    "FinalZipSha256": "cea4abe0fe0346162626a57522edabfeb159e7893bbcdaf5745fa2f55d4c40ad",
     "Status": "UNSIGNED_DEVELOPMENT_ONLY"
   }
 }
